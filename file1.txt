@@ -1,1 +1,2 @@
 hello git
+this is the editing file in new branch called new feature 
